@@ -3,5 +3,6 @@ public class day16 {
         Node node = new Node();
         node.data = "피카츄";
         System.out.println(node.toString());  // sout 치고 엔터
+        System.out.println(node);
     }
 }
